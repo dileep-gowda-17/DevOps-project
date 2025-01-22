@@ -1,0 +1,35 @@
+1.What types of routing policies does Route 53 support?
+
+2.What is AWS Route 53?
+
+3.What is the significance of CloudWatch Dashboards, and how can they help in 
+visualizing and monitoring AWS resources?
+
+4.Explain the difference between CloudWatch Alarms and CloudWatch Events.
+ When and how would you use each?
+
+5. What is a CloudWatch metric, and how do you create custom metrics for 
+monitoring your resources?
+
+6.Can you explain how to create a Trail in AWS CloudTrail?
+
+7.Can you give me some examples of real-world usage of CloudTrail?
+
+8.Does the CloudTrail Event History show all account activity within my account?
+
+9.mention the types of events managed by cloud trial with example ?
+
+10. What is the difference between management events and data events in CloudTrail?
+
+11.What is the default retention period for log files stored in the s3 bucket used by CloudTrail?
+
+12.Explain the concept of an edge location in the context of CloudFront, and how does it 
+contribute to low-latency content delivery?-------->with diagram 
+
+13.How can you secure content delivery using CloudFront?
+
+14.mention any 3 differences b/w cloud watch and cloud trial ?
+
+15.what is file size of cloud trial used ?
+
+
