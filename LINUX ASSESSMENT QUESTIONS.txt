@@ -1,0 +1,43 @@
+1. What is the default permission on user's home directory?
+2. What is the command to create a user with a pre defined uid, shell and 
+home directory?
+3. Explain each field of /etc/passwd
+4. If I delete a user, does it's home directory gets deleted? If not then 
+what is the command to delete the home directory of user along with the user
+5. Name any 3 files which are automatically created inside any user's home directory 
+when a user is added
+6. What is the command to change and view the expiry date for any user?set the p/w 
+expiry date of any user account for december 23 of this year , and warning 
+period of 10 days ,with maximum number of p/w change for 2 days 
+7. Name any 3 groups of which root is a member by default
+8. What is the difference between Linux and Unix?
+9. What is Linux Kernel,BASH, Linux Distribution,Shell,Daemons?
+10.What are the different modes when using the vi editor?
+11.What are inode and process id?
+12. Explain File Permission groups in Linux?
+13. What is umask?How to set the mask permanently for a user? 
+14. How to lock a user account in Linux?
+15.What is chmod, ps , sort, pipes, filters,uniq ,chown,exit status in Linux 
+chgrp, explain each? 
+with examples?
+16.set the ip addres with IP address :10.0.0.1,and host name with 
+apponixlab.mylab.com?
+17.what is RPM , EXPLAIN?
+18.WHAT IS YUM ,WHY it is used ?
+19.create shell scripting to perform arthimatic operation of addition,subtraction
+multiplication,division within two operand values 10 & 2.
+20. execute shell scripting file to display with value and names with specified 
+syntax
+21.break the root password with given password "APPONIX123!"
+22.How do users create a hard link & symbolic link in Linux? 
+23.How do you find the process ID (PID) of a running process? 
+24.What are the most important use cases of below Linux commands?
+>ls , cat , mkdir , top , grep , lscpu , wc , pwd , whoami ,usermod , gshadow , 
+passwd ?
+25.differnces between an open source and closed environment operating system ?
+26.explain SE-linux ?
+27.what is booting ?explain the types of booting with its functions ?
+28.what is SSH ?how to take the remote server acces from any server explain? 
+29.EXPLAIN CRONTAB Syntax?
+30.can we perform hardlink for folder.....................?
+
