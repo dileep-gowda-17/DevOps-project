@@ -1,0 +1,38 @@
+1.Difference between EFS and EBS?
+
+2.How do you configure the AWS CLI on your local machine, and 
+what are the key configuration settings you need to provide?
+
+3.what is the differences b/w on-premisies and cloud?
+
+4.Define all types of Storage Classes in AWS S3?
+
+5.How do you create a dashboard in CloudWatch?
+
+6.create an alaram to trigger ec2 & record the data in cloud watch ?
+
+7.differences b/w snapshot & Ami?
+
+8.launch an default web page in linux severs and take the backup of the machine ?
+
+9.perform versioning and cross region replication on an s3 bucket ?
+
+10.explain cloud deployemnt models with diagram and examples?
+
+11.define the terms below : cloud computing ,key pairs ,ec2 server ,S3, 
+security groups ?
+
+12.create any ec2 server by attahing the volume and take the backup of ec2 server 
+
+14.define and list types of events that can be monitored in cloud trial ?
+
+15.define SNS ?
+
+16.define CDN and create distribution i.d for the bucket objects ?
+
+18.explain public , private and hybrid , community cloud ?
+
+19.explain 6 advantages of using cloud computing ? 
+
+20.differences b/w block storage and object storage ?
+20.what is 
